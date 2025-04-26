@@ -86,7 +86,6 @@ int main()
 int n,k; scanf("%d%d",&n,&k); calculate_the_max(n,k);
 }
 
-
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/d0fcc046-9502-46cd-80e1-ef3bdc0f8ee6)
@@ -134,13 +133,9 @@ int ppshelno; scanf("%d",&ppshelno); printf("%d",nobookarr[ppshelno]);
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/fa8d3bdc-1cad-4733-bead-d0c66d6f4d04)
-
-
 ## Result:
 Thus, the program to write the logic for the requests is verified successfully.
 
-
- 
 ## EXP NO:24 C PROGRAM PRINT THE SUM OF THE INTEGERS IN THE ARRAY.
  ## Aim:
 To write a C program print the sum of the integers in the array.
@@ -173,17 +168,10 @@ printf("%d",sum);
 ## Output:
  ![image](https://github.com/user-attachments/assets/f43844da-4b29-46d8-828a-22c9f4c28392)
 
- 
-
-
 ## Result:
 Thus, the program prints the sum of the integers in the array is verified successfully.
 
-
- 
 ## EXP NO:25  C PROGRAM TO COUNT THE NUMBER OF WORDS IN A SENTENCE
-
-
 
 ## Aim:
 

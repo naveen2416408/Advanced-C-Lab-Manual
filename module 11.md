@@ -45,8 +45,6 @@ int n1,n2,n3,n4,greater; scanf("%d%d%d%d",&n1,&n2,&n3,&n4); greater=max_of_four(
 ## Result:
 Thus, the program  that create a function to find the greatest number is verified successfully.
 
-
- 
 ## EXP NO:22 C PROGRAM TO PRINT THE MAXIMUM VALUES FOR THE AND, OR AND  XOR COMPARISONS
 ## Aim:
 To write a C program to print the maximum values for the AND, OR and XOR comparisons
@@ -98,8 +96,6 @@ int n,k; scanf("%d%d",&n,&k); calculate_the_max(n,k);
 ## Result:
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
 is verified successfully.
-
-
  
 ## EXP NO:23 C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
 ## Aim:

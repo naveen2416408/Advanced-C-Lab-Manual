@@ -224,10 +224,7 @@ int main()
 ## Output:
 ![image](https://github.com/user-attachments/assets/960ff2ab-3444-474b-ae9d-5abc36a1842a)
 
-
-
 ## Result:
-
 Thus, the program that counts the number of words in a given sentence is verified 
 successfully.
 

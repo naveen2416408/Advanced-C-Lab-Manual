@@ -28,8 +28,6 @@ Program:
           }
 
 Output:
-
-
 ![437307594-ed3fa147-5c7b-4942-a71c-9f2f171134e6](https://github.com/user-attachments/assets/a8a1af1d-222b-440a-ba6c-3ca31023584f)
 
 
@@ -67,9 +65,7 @@ Program:
           }
 
 Output:
-
 ![437307774-edde0fba-5b7e-4521-bc6a-3b66b304543d](https://github.com/user-attachments/assets/3068daed-dfb2-45da-b97e-981059a2fdc6)
-
 
 Result:
 Thus, the program to pop an element from the given stack using liked list is verified successfully.

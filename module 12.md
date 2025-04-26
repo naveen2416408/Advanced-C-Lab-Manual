@@ -36,8 +36,6 @@ Output:
 Result:
 Thus, the program to display stack elements using linked list is verified successfully. 
 
-
-
 EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
 LINKED LIST.
 
@@ -71,9 +69,6 @@ Program:
 Output:
 
 ![437307774-edde0fba-5b7e-4521-bc6a-3b66b304543d](https://github.com/user-attachments/assets/3068daed-dfb2-45da-b97e-981059a2fdc6)
-
-
-
 
 
 Result:
@@ -176,7 +171,6 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
 
-
 Aim:
 
 The aim of this function is to retrieve the "peek" (the front element) of a queue implemented using a linked list
@@ -202,13 +196,7 @@ Program:
 
 Output:
 
-
-
 ![437308442-bea488b0-ba1b-486c-a771-6b9e1f56f319](https://github.com/user-attachments/assets/a6143772-4fe6-4d53-8f28-eb071c67fc71)
 
-
 Result:
-
 Thus, the program to retrieve the "peek" (the front element) of a queue implemented using a linked list is verified successfully.
-
-
